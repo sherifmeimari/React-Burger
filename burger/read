@@ -1,0 +1,18 @@
+# React-BurgerApp #
+Simple App developed with React front-end framework and Firebase Database instance as the Backend
+
+## Build: ##
+
+- create project with create-react-app: create-react-app <NAME_OF_YOUR_PROJECT> --scripts-version 1.1.5
+- eject project and add css modules with: npm run eject (edited in webpack_config_dev & webpack_config_prod)
+
+## Set-up & add external libraries: ##
+
+* npm install
+* npm install --save prop-types
+* npm install --save axios
+* npm install --save react-router react-router-dom
+
+## Start the server ##
+
+npm start
